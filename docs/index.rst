@@ -21,6 +21,7 @@ Documentation/help can be found in the `Response Tools Data Guide <https://githu
    instrument
    observation
    response_guide
+   response_elements
    general_instructions
    auto_examples/index
    code
